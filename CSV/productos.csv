@@ -1,0 +1,166 @@
+﻿producto_id,nombre,categoria,precio_unitario,costo,color
+1002,Cartera clásica marrón,Carteras,14800,7950,Marrón
+1001,Cartera clásica negro,Carteras,14800,7950,Negro
+1012,Cartera clásica beige,Carteras,14800,7950,Beige
+1005,Cartera clásica gris,Carteras,14800,7950,Gris
+1004,Cartera clásica azul,Carteras,14800,7950,Azul
+1011,Cartera clásica celeste,Carteras,14800,7950,Celeste
+2012,Cartera de cuero beige,Carteras,15800,7220,Beige
+2002,Cartera de cuero marrón,Carteras,15800,7220,Marrón
+3012,Riñonera urbana beige,Accesorios,9700,5110,Beige
+3009,Riñonera urbana blanco,Accesorios,9700,5110,Blanco
+3002,Riñonera urbana marrón,Accesorios,9700,5110,Marrón
+3010,Riñonera urbana mostaza,Accesorios,9700,5110,Mostaza
+3007,Riñonera urbana rojo,Accesorios,9700,5110,Rojo
+3001,Riñonera urbana negro,Accesorios,9700,5110,Negro
+4002,Mochila de cuero marrón,Carteras,21200,10980,Marrón
+5004,Campera biker azul,Ropa,28700,14590,Azul
+5009,Campera biker blanco,Ropa,28700,14590,Blanco
+6001,Campera bomber negro,Ropa,27800,14600,Negro
+6009,Campera bomber blanco,Ropa,27800,14600,Blanco
+6004,Campera bomber azul,Ropa,27800,14600,Azul
+6012,Campera bomber beige,Ropa,27800,14600,Beige
+6011,Campera bomber celeste,Ropa,27800,14600,Celeste
+7009,Camisa lino blanco,Ropa,17400,8190,Blanco
+7007,Camisa lino rojo,Ropa,17400,8190,Rojo
+7004,Camisa lino azul,Ropa,17400,8190,Azul
+7008,Camisa lino camel,Ropa,17400,8190,Camel
+7010,Camisa lino mostaza,Ropa,17400,8190,Mostaza
+7005,Camisa lino gris,Ropa,17400,8190,Gris
+8013,Pantalón cargo nude,Ropa,19800,10000,Nude
+9012,Cinturón trenzado beige,Accesorios,6200,2790,Beige
+9007,Cinturón trenzado rojo,Accesorios,6200,2790,Rojo
+10005,Cinturón liso gris,Accesorios,5800,2750,Gris
+10003,Cinturón liso bordó,Accesorios,5800,2750,Bordó
+10004,Cinturón liso azul,Accesorios,5800,2750,Azul
+11002,Billetera clásica marrón,Accesorios,8800,4420,Marrón
+11015,Billetera clásica naranja,Accesorios,8800,4420,Naranja
+11007,Billetera clásica rojo,Accesorios,8800,4420,Rojo
+12006,Billetera plegable verde,Accesorios,8200,3920,Verde
+13010,Porta notebook mostaza,Accesorios,19500,9130,Mostaza
+13005,Porta notebook gris,Accesorios,19500,9130,Gris
+13013,Porta notebook nude,Accesorios,19500,9130,Nude
+14012,Porta documentos beige,Accesorios,18300,9460,Beige
+15009,Campera cuero blanco,Ropa,29800,15720,Blanco
+15002,Campera cuero marrón,Ropa,29800,15720,Marrón
+15007,Campera cuero rojo,Ropa,29800,15720,Rojo
+15014,Campera cuero violeta,Ropa,29800,15720,Violeta
+16005,Chaleco matelassé gris,Ropa,15700,7730,Gris
+16014,Chaleco matelassé violeta,Ropa,15700,7730,Violeta
+16011,Chaleco matelassé celeste,Ropa,15700,7730,Celeste
+16010,Chaleco matelassé mostaza,Ropa,15700,7730,Mostaza
+16006,Chaleco matelassé verde,Ropa,15700,7730,Verde
+17004,Camisa denim azul,Ropa,18200,9060,Azul
+17012,Camisa denim beige,Ropa,18200,9060,Beige
+17002,Camisa denim marrón,Ropa,18200,9060,Marrón
+17001,Camisa denim negro,Ropa,18200,9060,Negro
+17011,Camisa denim celeste,Ropa,18200,9060,Celeste
+18013,Pantalón vestir nude,Ropa,21100,10970,Nude
+18005,Pantalón vestir gris,Ropa,21100,10970,Gris
+19014,Bandolera chica violeta,Carteras,11200,5950,Violeta
+20014,Bandolera mediana violeta,Carteras,12600,6560,Violeta
+20002,Bandolera mediana marrón,Carteras,12600,6560,Marrón
+21005,Bandolera grande gris,Carteras,14400,6700,Gris
+21008,Bandolera grande camel,Carteras,14400,6700,Camel
+21011,Bandolera grande celeste,Carteras,14400,6700,Celeste
+21006,Bandolera grande verde,Carteras,14400,6700,Verde
+22006,Cartera shopper verde,Carteras,17300,8260,Verde
+22015,Cartera shopper naranja,Carteras,17300,8260,Naranja
+23011,Riñonera cuero celeste,Accesorios,10300,4730,Celeste
+23005,Riñonera cuero gris,Accesorios,10300,4730,Gris
+24015,Campera impermeable naranja,Ropa,24600,13240,Naranja
+24011,Campera impermeable celeste,Ropa,24600,13240,Celeste
+24014,Campera impermeable violeta,Ropa,24600,13240,Violeta
+24002,Campera impermeable marrón,Ropa,24600,13240,Marrón
+24010,Campera impermeable mostaza,Ropa,24600,13240,Mostaza
+24003,Campera impermeable bordó,Ropa,24600,13240,Bordó
+25012,Mochila táctica beige,Carteras,22500,12070,Beige
+25004,Mochila táctica azul,Carteras,22500,12070,Azul
+25003,Mochila táctica bordó,Carteras,22500,12070,Bordó
+25008,Mochila táctica camel,Carteras,22500,12070,Camel
+25007,Mochila táctica rojo,Carteras,22500,12070,Rojo
+26015,Mochila urbana naranja,Carteras,21000,9710,Naranja
+26011,Mochila urbana celeste,Carteras,21000,9710,Celeste
+26012,Mochila urbana beige,Carteras,21000,9710,Beige
+27004,Camisa Oxford azul,Ropa,17900,9350,Azul
+27011,Camisa Oxford celeste,Ropa,17900,9350,Celeste
+27006,Camisa Oxford verde,Ropa,17900,9350,Verde
+27001,Camisa Oxford negro,Ropa,17900,9350,Negro
+27015,Camisa Oxford naranja,Ropa,17900,9350,Naranja
+28013,Chaleco lino nude,Ropa,16100,8640,Nude
+29007,Porta pasaporte rojo,Accesorios,7400,3570,Rojo
+29005,Porta pasaporte gris,Accesorios,7400,3570,Gris
+29002,Porta pasaporte marrón,Accesorios,7400,3570,Marrón
+30015,Porta celular naranja,Accesorios,7600,3430,Naranja
+30010,Porta celular mostaza,Accesorios,7600,3430,Mostaza
+31006,Cartuchera cuero verde,Accesorios,6900,3540,Verde
+31004,Cartuchera cuero azul,Accesorios,6900,3540,Azul
+31011,Cartuchera cuero celeste,Accesorios,6900,3540,Celeste
+31008,Cartuchera cuero camel,Accesorios,6900,3540,Camel
+31007,Cartuchera cuero rojo,Accesorios,6900,3540,Rojo
+31012,Cartuchera cuero beige,Accesorios,6900,3540,Beige
+32005,Mochila ejecutiva gris,Carteras,23800,12950,Gris
+32003,Mochila ejecutiva bordó,Carteras,23800,12950,Bordó
+33012,Campera inflable beige,Ropa,26500,14140,Beige
+33009,Campera inflable blanco,Ropa,26500,14140,Blanco
+34005,Cartera mini gris,Carteras,12100,6090,Gris
+34012,Cartera mini beige,Carteras,12100,6090,Beige
+34010,Cartera mini mostaza,Carteras,12100,6090,Mostaza
+34007,Cartera mini rojo,Carteras,12100,6090,Rojo
+34013,Cartera mini nude,Carteras,12100,6090,Nude
+35006,Billetera slim verde,Accesorios,8700,4640,Verde
+35004,Billetera slim azul,Accesorios,8700,4640,Azul
+35003,Billetera slim bordó,Accesorios,8700,4640,Bordó
+35009,Billetera slim blanco,Accesorios,8700,4640,Blanco
+36002,Porta llaves marrón,Accesorios,5500,2540,Marrón
+36013,Porta llaves nude,Accesorios,5500,2540,Nude
+36001,Porta llaves negro,Accesorios,5500,2540,Negro
+36015,Porta llaves naranja,Accesorios,5500,2540,Naranja
+37011,Cinturón doble vuelta celeste,Accesorios,6300,3020,Celeste
+37003,Cinturón doble vuelta bordó,Accesorios,6300,3020,Bordó
+38007,Pantalón gabardina rojo,Ropa,19900,10780,Rojo
+38010,Pantalón gabardina mostaza,Ropa,19900,10780,Mostaza
+38002,Pantalón gabardina marrón,Ropa,19900,10780,Marrón
+38015,Pantalón gabardina naranja,Ropa,19900,10780,Naranja
+38012,Pantalón gabardina beige,Ropa,19900,10780,Beige
+38014,Pantalón gabardina violeta,Ropa,19900,10780,Violeta
+39009,Camisa escocesa blanco,Ropa,18600,8400,Blanco
+39005,Camisa escocesa gris,Ropa,18600,8400,Gris
+39015,Camisa escocesa naranja,Ropa,18600,8400,Naranja
+39001,Camisa escocesa negro,Ropa,18600,8400,Negro
+40012,Chaleco liviano beige,Ropa,14900,7100,Beige
+40002,Chaleco liviano marrón,Ropa,14900,7100,Marrón
+40011,Chaleco liviano celeste,Ropa,14900,7100,Celeste
+40009,Chaleco liviano blanco,Ropa,14900,7100,Blanco
+40005,Chaleco liviano gris,Ropa,14900,7100,Gris
+40006,Chaleco liviano verde,Ropa,14900,7100,Verde
+41005,Riñonera XL gris,Accesorios,10900,5900,Gris
+42003,Campera de jean bordó,Ropa,23300,10620,Bordó
+42008,Campera de jean camel,Ropa,23300,10620,Camel
+42001,Campera de jean negro,Ropa,23300,10620,Negro
+42012,Campera de jean beige,Ropa,23300,10620,Beige
+43005,Campera con corderito gris,Ropa,31200,16870,Gris
+43009,Campera con corderito blanco,Ropa,31200,16870,Blanco
+43013,Campera con corderito nude,Ropa,31200,16870,Nude
+43003,Campera con corderito bordó,Ropa,31200,16870,Bordó
+43014,Campera con corderito violeta,Ropa,31200,16870,Violeta
+43002,Campera con corderito marrón,Ropa,31200,16870,Marrón
+44005,Billetera tarjetero gris,Accesorios,8100,4070,Gris
+44014,Billetera tarjetero violeta,Accesorios,8100,4070,Violeta
+44011,Billetera tarjetero celeste,Accesorios,8100,4070,Celeste
+44009,Billetera tarjetero blanco,Accesorios,8100,4070,Blanco
+44010,Billetera tarjetero mostaza,Accesorios,8100,4070,Mostaza
+44004,Billetera tarjetero azul,Accesorios,8100,4070,Azul
+45006,Cinturón con hebilla verde,Accesorios,6800,3100,Verde
+45013,Cinturón con hebilla nude,Accesorios,6800,3100,Nude
+46009,Cartera cruzada blanco,Carteras,15800,8020,Blanco
+46013,Cartera cruzada nude,Carteras,15800,8020,Nude
+47015,Camisa básica naranja,Ropa,16200,8480,Naranja
+47001,Camisa básica negro,Ropa,16200,8480,Negro
+47010,Camisa básica mostaza,Ropa,16200,8480,Mostaza
+47006,Camisa básica verde,Ropa,16200,8480,Verde
+47008,Camisa básica camel,Ropa,16200,8480,Camel
+48002,Chaleco con cierre marrón,Ropa,17300,8790,Marrón
+49015,Mochila simple naranja,Carteras,19400,9120,Naranja
+49014,Mochila simple violeta,Carteras,19400,9120,Violeta
+49013,Mochila simple nude,Carteras,19400,9120,Nude
